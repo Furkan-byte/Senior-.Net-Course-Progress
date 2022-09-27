@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JDo34iZam+UW74Z6kjUpY0cV8eYOHUzk+UCJO6BaKaA8NM4DNgKH17qRpWvQjUexoFE5ctJbYjWl12KaBvk8+w==",
+  "dgSpecHash": "FygjOfL8R+iFog6Oq5MMmBsDleDEmnc17zW6PxU5vOk9dF3PcrIgTdlMOTSXRh99GKXozkI7Kl6u9smM5wdiLA==",
   "success": true,
-  "projectFilePath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

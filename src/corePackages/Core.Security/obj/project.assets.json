@@ -968,11 +968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj",
       "projectName": "Core.Security",
-      "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -992,8 +992,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-              "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+            "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
             }
           }
         }

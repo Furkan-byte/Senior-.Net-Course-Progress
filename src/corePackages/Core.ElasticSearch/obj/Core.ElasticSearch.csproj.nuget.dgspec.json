@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {}
   },
   "projects": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
         "projectName": "Core.ElasticSearch",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -10,3 +10,15 @@ D:\Senior Software Camp\nArchitecture\src\corePackages\Core.Persistence\obj\Debu
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9EGPGs4ButJmjdtWUsse/9NkHthEET6zjuUUnMLZCtQhb8/hYOx1R0mvWImQ0gctVu7DB5twTol7VrqW/Cvzuw==",
+  "dgSpecHash": "P8nAFip4HE7YZGcADD35Pov8P3fruwAGZYJXblFiWsNqnlF480vPysNXn8I7ka1N9rknDhFw1FyHgwfe2+afuA==",
   "success": true,
-  "projectFilePath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

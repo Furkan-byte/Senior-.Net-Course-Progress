@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "projectName": "Core.Application",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,11 +31,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
               },
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj"
               }
             }
           }
@@ -66,12 +66,6 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.8, )"
-            },
             "Microsoft.Extensions.Caching.Abstractions": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -96,14 +90,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -175,14 +169,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "projectName": "Core.Persistence",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -242,14 +236,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "projectName": "Core.Security",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\Core.Security.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\Core.Security.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Security\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -269,8 +263,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -325,14 +319,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -352,11 +346,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj"
               },
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj"
+              },
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -374,6 +371,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[11.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.2.1, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
@@ -399,14 +400,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -426,8 +427,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
               }
             }
           }
@@ -460,14 +461,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -487,14 +488,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Application\\Application.csproj"
               },
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
-              },
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Domain\\Domain.csproj"
               }
             }
           }
@@ -511,11 +509,11 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.8, )"
+              "version": "[6.0.1, )"
             },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
@@ -541,14 +539,14 @@
         }
       }
     },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -568,8 +566,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
+              "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\rentACar\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -627,141 +625,6 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
-        "projectName": "Application",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj"
-              },
-              "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "MediatR.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[10.0.1, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
-        "projectName": "Domain",
-        "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj": {
-                "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

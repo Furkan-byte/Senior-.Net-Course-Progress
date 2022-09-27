@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "68yWCreT+lWoAVw74ocNcmHz+FlCiSldikXoe6F3UPUwWAIHgNihLd8tfxKWI1l4p+dQv+DMfvikt8e6OybG5A==",
+  "dgSpecHash": "auOUT8HSbbZP92YWx1ty9jB+jL12tJ6CAtfgpOxLC7r4YHKv+ZiFzax+m/1m1JvC2mWq6ffimwkxFKhJJQXckg==",
   "success": true,
-  "projectFilePath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

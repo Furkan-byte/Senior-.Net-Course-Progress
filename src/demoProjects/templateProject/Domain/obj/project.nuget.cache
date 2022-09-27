@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yZDPVxgzDxG4et6phqj2nKzrYLxZOlLQkdbjrpJcLH8KoD61DOovLdMHKwLVOaB+D7h3WqSzoViX0ZhR43RYxA==",
+  "dgSpecHash": "kqpYuFmqeBNdjf4tD2jkDFBUEtIGeKdk0rIdmdSprUkonDRiDDlWbFCcoeBgsQQ/9Po5NV6K6s88aQ1ZnGM5uQ==",
   "success": true,
-  "projectFilePath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

@@ -4704,11 +4704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Application\\obj\\",
+      "outputPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4728,11 +4728,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
-              "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.Application\\Core.Application.csproj"
+            "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.Application\\Core.Application.csproj"
             },
-            "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Senior Software Camp\\nArchitecture\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
+            "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\demoProjects\\templateProject\\Domain\\Domain.csproj"
             }
           }
         }

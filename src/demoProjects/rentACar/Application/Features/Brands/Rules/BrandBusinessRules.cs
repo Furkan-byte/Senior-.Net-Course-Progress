@@ -1,7 +1,7 @@
 ﻿using Application.Services.Repositories;
 using Core.CrossCuttingConcerns.Exceptions;
 using Core.Persistence.Paging;
-using Domain.Entitites;
+using Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,13 +19,15 @@ namespace Application.Features.Brands.Rules
             _brandRepository = brandRepository;
         }
 
-        public async Task BrandNameCannotBeDuplicatedWhenInserted(string name)
+        public async Task BrandNameCanNotBeDuplicatedWhenInserted(string name)
         {
             IPaginate<Brand> result = await _brandRepository.GetListAsync(b => b.Name == name);
-            if (result.Items.Any())
-            {
-                throw new BusinessException("Brand name exists");
-            }
+            if (result.Items.Any()) throw new BusinessException("Brand name exists.");
+        }
+
+        public void BrandShouldExistWhenRequested(Brand brand)
+        {
+            if (brand == null) throw new BusinessException("Requested brand does not exist");
         }
     }
 }

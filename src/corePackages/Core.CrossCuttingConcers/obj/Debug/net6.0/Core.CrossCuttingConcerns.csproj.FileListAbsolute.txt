@@ -10,3 +10,15 @@ D:\Senior Software Camp\nArchitecture\src\corePackages\Core.CrossCuttingConcers\
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
 D:\Senior Software Camp\nArchitecture\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.deps.json
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Users\pc\source\repos\Senior-.Net-Course-Progress\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll

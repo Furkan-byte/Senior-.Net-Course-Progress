@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PG+5HPPHLCi0r/+hP6y/klHA7eK5p2RwKtsU9j3fpZjZ2aJd1SDesSI74221pdV7/yM8NOoCxjLRXry2Tw5AHg==",
+  "dgSpecHash": "neY6jUh4EHGY/5MufBzrCJad8cC9OPY5Uzi9u7zLOmvs8Q2wFfE3Lfb/QjdHCdTdMLPfJoP0mxXOnw6qasXb7w==",
   "success": true,
-  "projectFilePath": "D:\\Senior Software Camp\\nArchitecture\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\Senior-.Net-Course-Progress\\src\\corePackages\\Core.ElasticSearch\\Core.ElasticSearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\elasticsearch.net\\7.17.0\\elasticsearch.net.7.17.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
